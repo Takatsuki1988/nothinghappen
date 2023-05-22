@@ -1,14 +1,13 @@
 namespace DefaultRotations.Ranged;
 
 [BetaRotation]
-[SourceCode("https://github.com/ArchiDog1998/FFXIVRotations/blob/main/DefaultRotations/Ranged/MCH_Default.cs")]
-[LinkDescription("https://cdn.discordapp.com/attachments/277968251789639680/1086348727691780226/mch_rotation.png")]
+[SourceCode("https://https://github.com/Takatsuki1988/ffxiv/edit/main/MCH_Default.cs")]
 [RotationDesc(ActionID.Wildfire)]
 public sealed class MCH_Default : MCH_Base
 {
     public override string GameVersion => "6.38";
 
-    public override string RotationName => "General Purpose";
+    public override string RotationName => "General Purpose2";
 
     protected override IAction CountDownAction(float remainTime)
     {
