@@ -1,7 +1,7 @@
 namespace DefaultRotations.Ranged;
 
 [BetaRotation]
-[SourceCode("https://https://github.com/Takatsuki1988/ffxiv/edit/main/MCH_Default.cs")]
+[SourceCode("https://https://github.com/Takatsuki1988/nothinghappen/edit/main/MCH_Default.cs")]
 [RotationDesc(ActionID.Wildfire)]
 public sealed class MCH_Default : MCH_Base
 {
